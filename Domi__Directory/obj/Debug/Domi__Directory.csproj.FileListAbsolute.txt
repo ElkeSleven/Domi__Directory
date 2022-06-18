@@ -1,0 +1,15 @@
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\bin\Debug\Domi__Directory.exe.config
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\bin\Debug\Domi__Directory.exe
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\bin\Debug\Domi__Directory.pdb
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory.csproj.AssemblyReference.cache
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\MainWindow.g.cs
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\App.g.cs
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory_MarkupCompile.cache
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory_MarkupCompile.lref
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\MainWindow.baml
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory.g.resources
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory.Properties.Resources.resources
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory.csproj.GenerateResource.cache
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory.csproj.CoreCompileInputs.cache
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory.exe
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__Directory\Domi__Directory\Domi__Directory\obj\Debug\Domi__Directory.pdb
